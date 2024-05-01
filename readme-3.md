@@ -13,25 +13,6 @@ pip install foobar
 
 ## Usage
 
-
-toeovegen
-
-nog iets toevoegen
-
-
-nog iets toevoegen
-
-
-
-asd
-a
-
-
-ANOTHER ONE [attr.arial]abel
-
-
-another one
-
 ```python
 import foobar
 
