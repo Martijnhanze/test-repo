@@ -1,3 +1,4 @@
+## Contributing
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
@@ -26,11 +27,8 @@ asd
 a
 
 
-ANOTHER ONE
+ANOTHER ONE [attr.arial]abel
 
-d
-asd
-ad
 
 another one
 
